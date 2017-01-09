@@ -1,0 +1,19 @@
+{
+  "name": "base_folder",
+  "version": "1.0.0",
+  "description": "base project folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yolandalv/base_folder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yolandalv/base_folder/issues"
+  },
+  "homepage": "https://github.com/yolandalv/base_folder#readme"
+}
